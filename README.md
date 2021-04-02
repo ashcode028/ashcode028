@@ -15,6 +15,6 @@ Exploring and learning till my passion meets needs.
 - MYSQL
 - DJANGO
 - GIT
-- GITHUB
+- C++/C
 
 ![Ashita's Github stats](https://github-readme-stats.vercel.app/api?username=ashcode028)
