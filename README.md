@@ -6,8 +6,8 @@ Happy :smile: to catch your attention.
 Exploring and learning till my passion meets needs.
 ## I am a/an
 - Open source lover
-- Coder
-- Backend Engineer
+- Competitive Programmer
+- Backend Developer
 ## Known Tech/Languages
 - PHP
 - JAVA
