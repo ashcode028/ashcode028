@@ -2,10 +2,15 @@
 <h2> Hey there! I'm Ashita. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/digitalplayer1125/)](https://www.linkedin.com/in/ashita-boyina-b99ba9153/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rishi18304@iiitd.ac.in)](mailto:ashita19028@iiitd.ac.in)
+
+
+![profile count](https://komarev.com/ghpvc/?username=ashcode028&color=red)&nbsp;
+![Followers](https://img.shields.io/github/followers/ashcode028?style=social)
+![Stars](https://img.shields.io/github/stars/ashcode028?style=social)
+
+
 
 Happy :smile: to catch your attention.
-
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
@@ -13,18 +18,68 @@ Happy :smile: to catch your attention.
 - 🔭 &nbsp; I’m currently learning Machine Learning Algorithms
 - 🤔 &nbsp; Exploring and learning till my passion meets my needs.
 - 🎓 &nbsp; Studying Computer Science, from IIIT, Delhi .
-- 💼 &nbsp; Part time Software Engineer.
+- 💼 &nbsp; Part time Software Engineer in Startups.
 - 🌱 &nbsp; Open Source Enthusiast.
-- ✍️ &nbsp; Trying new tools and tech related to DevOps.
+- ✍️ &nbsp; Trying new tools and tech related to DevOps and Data Science.
 - ☕ &nbsp; I belive, a perfect music playlist is be the ultimate solution for all of my stress. 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java | C++  
-- 🌐 &nbsp; HTML | CSS | JavaScript | Django
-- 🛢 &nbsp; MySQL 
-- 🔧 &nbsp; PyCharm | Visual Studio code | Eclipse | Git | Linux
-- 🖥 &nbsp; [Portfolio](https://ashcode028.github.io/)
+### Languages
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+
+### Technologies /Frameworks
+
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![jUnit](https://img.shields.io/badge/jUnit%20-%23150458.svg?&style=flat&logo=Java&logoColor=white)&nbsp;
+![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
+
+[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://ashcode028.github.io/)
+
+
+<h2 align="center">Side Hustles that mattered :) </h2>
+
+
+<center>
+<a href="https://github.com/ashcode028/Weighted-Round-Robin-">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashcode028&repo=Weighted-Round-Robin-&theme=ayu-mirage&layout=compact" />
+</a>
+ <a href="https://github.com/ashcode028/Automating-GSheets">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashcode028&repo=Automating-GSheets&theme=ayu-mirage&layout=compact" />
+</a>
+<a href="https://github.com/ashcode028/Zotato">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashcode028&repo=Zotato&theme=ayu-mirage&layout=compact" />
+</a>
+<a href="https://github.com/ashcode028/tweets-check">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashcode028&repo=tweets-check&theme=ayu-mirage&layout=compact" />
+</a>
+<a href="https://github.com/ashcode028/Mafia">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashcode028&repo=Mafia&theme=ayu-mirage&layout=compact" />
+</a>
+<a href="https://github.com/ashcode028/MD5Hacking">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashcode028&repo=MD5Hacking&theme=ayu-mirage&layout=compact" />
+</a>
+<a href="https://github.com/ashcode028/QR-Factorisation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashcode028&repo=QR-Factorisation&theme=ayu-mirage&layout=compact" />
+</a>
+<a href="https://github.com/ashcode028/Making-URL-queries">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashcode028&repo=Making-URL-queries&theme=ayu-mirage&layout=compact" />
+</a>
+</center>
+
 
 <br>
 
