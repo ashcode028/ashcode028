@@ -5,13 +5,13 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rishi18304@iiitd.ac.in)](mailto:ashita19028@iiitd.ac.in)
 
 Happy :smile: to catch your attention.
-Exploring and learning till my passion meets needs.
+
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning Machine Learning Algorithms
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring and learning till my passion meets my needs.
 - 🎓 &nbsp; Studying Computer Science, from IIIT, Delhi .
 - 💼 &nbsp; Part time Software Engineer.
 - 🌱 &nbsp; Open Source Enthusiast.
