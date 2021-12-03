@@ -1,9 +1,6 @@
 
 <h2> Hey there! I'm Ashita. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/digitalplayer1125/)](https://www.linkedin.com/in/ashita-boyina-b99ba9153/)
-
-
 ![profile count](https://komarev.com/ghpvc/?username=ashcode028&color=red)&nbsp;
 ![Followers](https://img.shields.io/github/followers/ashcode028?style=social)
 ![Stars](https://img.shields.io/github/stars/ashcode028?style=social)
