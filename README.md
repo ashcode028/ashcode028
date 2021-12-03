@@ -15,7 +15,6 @@ Happy :smile: to catch your attention.
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Machine Learning Algorithms
 - 🤔 &nbsp; Exploring and learning till my passion meets my needs.
 - 🎓 &nbsp; Studying Computer Science, from IIIT, Delhi .
 - 💼 &nbsp; Part time Software Engineer in Startups.
