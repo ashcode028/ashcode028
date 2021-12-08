@@ -67,7 +67,7 @@ Happy :smile: to catch your attention.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashcode028&repo=Mafia&theme=ayu-mirage&layout=compact" />
 </a>
 <a href="https://github.com/ashcode028/Drone-Tasks">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashcode028&repo=Drone-Tass&theme=ayu-mirage&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashcode028&repo=Drone-Tasks&theme=ayu-mirage&layout=compact" />
 </a>
 <a href="https://github.com/ashcode028/QR-Factorisation">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashcode028&repo=QR-Factorisation&theme=ayu-mirage&layout=compact" />
