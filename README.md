@@ -13,7 +13,7 @@ Happy :smile: to catch your attention.
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring and learning till my passion meets my needs.
-- 🎓 &nbsp; Studying Computer Science, from IIIT, Delhi .
+- 🎓 &nbsp; Studying Computer Science, from IIIT, Delhi.
 - 💼 &nbsp; Part time Software Engineer in Startups.
 - 🌱 &nbsp; Open Source Enthusiast.
 - ✍️ &nbsp; Trying new tools and tech related to DevOps and Data Science.
