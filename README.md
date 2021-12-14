@@ -1,21 +1,26 @@
 
 <h2> Hey there! I'm Ashita. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+
 ![profile count](https://komarev.com/ghpvc/?username=ashcode028&color=red)&nbsp;
 ![Followers](https://img.shields.io/github/followers/ashcode028?style=social)
 ![Stars](https://img.shields.io/github/stars/ashcode028?style=social)
 
-
-
 Happy :smile: to catch your attention.
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+
+
+
 
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring and learning till my passion meets my needs.
 - 🎓 &nbsp; Studying Computer Science, from IIIT, Delhi.
 - 🌱 &nbsp; Open Source Enthusiast.
+Ping me on [Telegram](https://t.me/invisible955)!
 
+
+<!-----
 <h2>🛠 Tech Stack</h2>
 
 ### Languages
@@ -72,15 +77,20 @@ Happy :smile: to catch your attention.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashcode028&repo=Making-URL-queries&theme=ayu-mirage&layout=compact" />
 </a>
 </center>
+---->
+
 
 <h2>🏆 Github Profile </h2>
+<!----
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=ashcode028&column=9&theme=gruvbox&no-frame=true"/>
+--->
 
 <br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashcode028&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ashita's Github Stats">
 
 <br>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashcode028&layout=compact&text_color=daf7dc&bg_color=151515&langs_count=20&exclude_repo=Music-Genre-Classification)](https://github.com/ashcode028/github-readme-stats)
  
