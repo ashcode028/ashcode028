@@ -14,11 +14,7 @@ Happy :smile: to catch your attention.
 
 - 🤔 &nbsp; Exploring and learning till my passion meets my needs.
 - 🎓 &nbsp; Studying Computer Science, from IIIT, Delhi.
-- 💼 &nbsp; Part time Software Engineer in Startups.
 - 🌱 &nbsp; Open Source Enthusiast.
-- ✍️ &nbsp; Trying new tools and tech related to DevOps and Data Science.
-- ☕ &nbsp; I belive, a perfect music playlist is be the ultimate solution for all of my stress. 
-
 
 <h2>🛠 Tech Stack</h2>
 
