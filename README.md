@@ -17,7 +17,7 @@ Happy :smile: to catch your attention.
 - 🤔 &nbsp; Exploring and learning till my passion meets my needs.
 - 🎓 &nbsp; Studying Computer Science, from IIIT, Delhi.
 - 🌱 &nbsp; Open Source Enthusiast.
-Ping me on [Telegram](https://t.me/invisible955)!
+- 📫 &nbsp; Ping me on [Telegram](https://t.me/invisible955):)
 
 
 <!-----
