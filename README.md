@@ -20,10 +20,9 @@ Happy :smile: to catch your attention.
 - 📫 &nbsp; Ping me on [Telegram](https://t.me/invisible955):)
 
 
-<!-----
+
 <h2>🛠 Tech Stack</h2>
 
-### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -32,7 +31,7 @@ Happy :smile: to catch your attention.
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
-### Technologies /Frameworks
+
 
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
@@ -48,9 +47,8 @@ Happy :smile: to catch your attention.
 [![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://ashcode028.github.io/)
 
 
+<!-----
 <h2 align="center">Side Hustles that mattered :) </h2>
-
-
 <center>
 <a href="https://github.com/ashcode028/Weighted-Round-Robin-">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashcode028&repo=Weighted-Round-Robin-&theme=ayu-mirage&layout=compact" />
