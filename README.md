@@ -83,6 +83,8 @@ Happy :smile: to catch your attention.
 <h2>🏆 Github Profile </h2>
 <!----
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=ashcode028&column=9&theme=gruvbox&no-frame=true"/>
+
+![Skyline](https://github.com/ashcode028/ashcode028/blob/master/github-metrics.svg)
 --->
 
 <br>
@@ -91,8 +93,17 @@ Happy :smile: to catch your attention.
 
 <br>
 
-
+<!----
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashcode028&layout=compact&text_color=daf7dc&bg_color=151515&langs_count=20&exclude_repo=Music-Genre-Classification)](https://github.com/ashcode028/github-readme-stats)
- 
+---->
+<br>
+
+  [![Ashita's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ashcode028&theme=xcode)](https://git.io/ashcode028)
+   <br />
+   <br />
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ashcode028&theme=prussian&hide_border=true)](https://git.io/streak-stats)
+   <br />
+   <br />
+   
 
 
