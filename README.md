@@ -14,8 +14,8 @@ Happy :smile: to catch your attention.
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; Exploring and learning till my passion meets my needs.
-- 🎓 &nbsp; Studying Computer Science, from IIIT, Delhi.
+- 🤔 &nbsp; Peeping to each stage of software development.
+- 🎓 &nbsp; Computer Science Junior, from IIIT, Delhi.
 - 🌱 &nbsp; Open Source Enthusiast.
 - 📫 &nbsp; Ping me on [Telegram](https://t.me/invisible955):)
 
