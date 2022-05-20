@@ -9,6 +9,7 @@
 
 Happy :smile: to catch your attention.
 
+GO ahead! Find bugs in any of my repositories and send a PR:)
 
 
 
