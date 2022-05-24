@@ -9,6 +9,7 @@
 
 Happy :smile: to catch your attention.
 
+I love to showcase my projects with a detailed documentation, so that people can replicate that easily!
 GO ahead! Find bugs in any of my repositories and send a PR:)
 
 
@@ -17,7 +18,7 @@ GO ahead! Find bugs in any of my repositories and send a PR:)
 
 - 🤔 &nbsp; Peeping into each stage of software development.
 - 🎓 &nbsp; Computer Science Junior, from IIIT, Delhi.
-- 🌱 &nbsp; Open Source Enthusiast.
+- 🌱 &nbsp; Open Source Enthusiast. 
 - 📫 &nbsp; Ping me on [Telegram](https://t.me/invisible955):)
 
 
