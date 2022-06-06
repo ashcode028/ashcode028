@@ -16,7 +16,8 @@ GO ahead! Find bugs in any of my repositories and send a PR:)
 
 
 
-<h3> 👨🏻‍💻 About Me </h3>
+<!-- <h3> 👨🏻‍💻 About Me </h3> -->
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 - 🤔 &nbsp; Peeping into each stage of software development.
 - 🎓 &nbsp; Computer Science Undergrad, from IIIT, Delhi.
