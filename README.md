@@ -19,8 +19,8 @@ GO ahead! Find bugs in any of my repositories and send a PR:)
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Peeping into each stage of software development.
-- 🎓 &nbsp; Computer Science Junior, from IIIT, Delhi.
-- 🌱 &nbsp; Open Source Enthusiast. 
+- 🎓 &nbsp; Computer Science Undergrad, from IIIT, Delhi.
+<!-- - 🌱 &nbsp; Open Source Enthusiast.  -->
 - 📫 &nbsp; Ping me on [Telegram](https://t.me/invisible955):)
 
 
