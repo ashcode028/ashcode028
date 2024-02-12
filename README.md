@@ -102,11 +102,7 @@ GO ahead! Find bugs in any of my repositories and send a PR:)
 ---->
 <br>
 
-  [![Ashita's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ashcode028&theme=xcode)](https://git.io/ashcode028)
-   <br />
-   <br />
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ashcode028&theme=prussian&hide_border=true)](https://git.io/streak-stats)
-   <br />
    <br />
    
 
