@@ -85,25 +85,14 @@ GO ahead! Find bugs in any of my repositories and send a PR:)
 
 
 <h2>🏆 Github Profile </h2>
-<!----
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=ashcode028&column=9&theme=gruvbox&no-frame=true"/>
+<img align="center" width=800 src="https://github-profile-trophy.vercel.app/?username=ashcode028&column=9&theme=gruvbox&no-frame=true"/>
+<p float="left">
+<img src="https://github-readme-stats.vercel.app/api?username=ashcode028&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ashita's Github Stats">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=ashcode028&theme=prussian&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashcode028&layout=compact&text_color=daf7dc&bg_color=151515&langs_count=20&custom_title=Languages" />
+</p>
 
-![Skyline](https://github.com/ashcode028/ashcode028/blob/master/github-metrics.svg)
---->
 
-<br>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashcode028&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ashita's Github Stats">
-
-<br>
-
-<!----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashcode028&layout=compact&text_color=daf7dc&bg_color=151515&langs_count=20&exclude_repo=Music-Genre-Classification)](https://github.com/ashcode028/github-readme-stats)
----->
-<br>
-
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ashcode028&theme=prussian&hide_border=true)](https://git.io/streak-stats)
-   <br />
    
 
 
