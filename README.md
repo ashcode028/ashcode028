@@ -24,8 +24,7 @@ GO ahead! Find bugs in any of my repositories and send a PR:)
 <!-- - 🌱 &nbsp; Open Source Enthusiast.  -->
 - 📫 &nbsp; Ping me on [Telegram](https://t.me/invisible955):)
 
-
-
+<!-----
 <h2>🛠 Tech Stack</h2>
 
 
@@ -53,7 +52,7 @@ GO ahead! Find bugs in any of my repositories and send a PR:)
 [![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://ashcode028.github.io/)
 
 
-<!-----
+
 <h2 align="center">Side Hustles that mattered :) </h2>
 <center>
 <a href="https://github.com/ashcode028/Weighted-Round-Robin-">
@@ -81,7 +80,7 @@ GO ahead! Find bugs in any of my repositories and send a PR:)
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashcode028&repo=Making-URL-queries&theme=ayu-mirage&layout=compact" />
 </a>
 </center>
----->
+
 
 
 <h2>🏆 Github Profile </h2>
@@ -92,7 +91,7 @@ GO ahead! Find bugs in any of my repositories and send a PR:)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashcode028&layout=compact&text_color=daf7dc&bg_color=151515&langs_count=20&custom_title=Languages" />
 </p>
 
-
+---->
    
 
 
