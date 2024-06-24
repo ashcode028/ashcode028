@@ -1,4 +1,3 @@
-
 <h2> Hey there! I'm Ashita. <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="25"></h2>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
@@ -8,23 +7,44 @@
 ![Stars](https://img.shields.io/github/stars/ashcode028?style=social)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-
 Happy :smile: to catch your attention.
 
-I love to showcase my projects with a detailed documentation, so that people can replicate that easily!
+I love to showcase my projects with detailed documentation, so that people can replicate that easily!
 GO ahead! Find bugs in any of my repositories and send a PR:)
 
-
-
-<!-- <h3> 👨🏻‍💻 About Me </h3> -->
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 - 🤔 &nbsp; Peeping into each stage of software development.
 - 🎓 &nbsp; Computer Science Undergrad, from IIIT, Delhi.
-<!-- - 🌱 &nbsp; Open Source Enthusiast.  -->
 - 📫 &nbsp; Ping me on [Telegram](https://t.me/invisible955):)
 
+#### 📬 Other Contacts
+- [LinkedIn](https://www.linkedin.com/in/ashita-boyina-b99ba9153/)
+- [Email](cOde.A4sh@gmail.com)
+
+
+
 <!-----
+### 🔧 Skills
+
+![Python](https://img.shields.io/badge/-Python-blue)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+![React](https://img.shields.io/badge/-React-blue)
+![Node.js](https://img.shields.io/badge/-Node.js-green)
+![Git](https://img.shields.io/badge/-Git-red)
+[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://ashcode028.github.io/)
+
+### 🌟 Projects
+
+- [**Project Name**](https://github.com/ashcode028/project-name): Brief description of the project.
+- [**Another Project**](https://github.com/ashcode028/another-project): Brief description of this project.
+
+
+### 💼 Experience
+
+- **Internship/Job Title** at **Company Name**: Brief description of what you did.
+
+
 <h2>🛠 Tech Stack</h2>
 
 
