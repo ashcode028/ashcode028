@@ -1,6 +1,6 @@
 <h2> Hey there! I'm Ashita. <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="25"></h2>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ashcode028/ashcode028/refs/heads/master/cs.webp" width="500"/>
 
 ![profile count](https://komarev.com/ghpvc/?username=ashcode028&color=red)&nbsp;
 ![Followers](https://img.shields.io/github/followers/ashcode028?style=social)
