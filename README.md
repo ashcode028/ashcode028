@@ -7,7 +7,7 @@
 ![Stars](https://img.shields.io/github/stars/ashcode028?style=social)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-Happy :smile: to catch your attention.
+Happy to catch your attention :smile:.
 
 I love to showcase my projects with detailed documentation, so that people can replicate that easily!
 GO ahead! Find bugs in any of my repositories and send a PR:)
